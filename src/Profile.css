@@ -1,0 +1,14 @@
+.profile {
+    background-color: black;
+    color: beige;
+    height: 100vh;
+    overflow-y: hidden;
+    padding: 60px 250px;
+    box-sizing: border-box;
+}
+.profile h2 {
+    font-size: 90px !important;
+}
+.profile h2, .profile p {
+    font-size: 40px;
+}

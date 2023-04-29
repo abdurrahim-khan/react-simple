@@ -1,0 +1,40 @@
+* {
+    overflow-y: hidden;
+}
+.signup-form {
+    padding: 100px 350px;
+    margin-top: 0;
+    font-size: 50px;
+    background-color: black;
+    color: beige;
+    overflow-y: hidden;
+}
+input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    width: 600px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+h2 {
+    margin-bottom: 0;
+}
+button {
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+}
+.message {
+    margin-top: 20px;
+}
+#error {
+    color:  red !important;
+    font-size: 16px !important;
+}
+#success {
+    color: green !important;
+    font-size: 16px !important;
+}
